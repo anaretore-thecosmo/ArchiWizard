@@ -1,0 +1,6 @@
+{
+  "name": "ArchiWizard",
+  "description": "Assistente inteligente para criação simplificada de projetos de arquitetura e design para leigos.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
